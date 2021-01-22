@@ -2,7 +2,7 @@
   "profiles": {
     "SDCA": {
       "commandName": "Project",
-      "commandLineArgs": "predict .\\temp_data\\malicious.dll"
+      "commandLineArgs": "predict .\\FileClassification.exe"
     }
   }
 }
